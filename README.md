@@ -15,11 +15,11 @@ ____
 ###### Make sure to star this n follow my githuib for more discord tools! (https://discord.gg/raided)
 
 
-1) ![image](https://user-images.githubusercontent.com/94531396/142621320-f3235b07-2ebc-4708-aaba-a9bd30689a05.png)
+`first Step!` ![image](https://user-images.githubusercontent.com/94531396/142621320-f3235b07-2ebc-4708-aaba-a9bd30689a05.png)
 
-2) ![image](https://user-images.githubusercontent.com/94531396/142621226-d130e319-dd15-4e9e-ac51-c3aa0587c765.png)
+`Second Step!`![image](https://user-images.githubusercontent.com/94531396/142621226-d130e319-dd15-4e9e-ac51-c3aa0587c765.png)
 
-3) ![image]https://media.discordapp.net/attachments/892468219711979563/911231226390646814/unknown.jpg
+`Final Step!` ![image](https://user-images.githubusercontent.com/94531396/142622938-0f930e15-0ad0-4f56-bec1-05dbab27e4e8.png)
 
 
 `Skid this = blackisted <3`
