@@ -19,7 +19,7 @@ ____
 
 2) ![image](https://user-images.githubusercontent.com/94531396/142621226-d130e319-dd15-4e9e-ac51-c3aa0587c765.png)
 
-3) ![image](https://user-images.githubusercontent.com/94531396/142621781-67474ec7-cb28-4c7d-832c-753366b6c159.png)
+3) ![image]https://media.discordapp.net/attachments/892468219711979563/911231226390646814/unknown.jpg
 
 
 `Skid this = blackisted <3`
