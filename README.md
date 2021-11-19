@@ -7,7 +7,7 @@ ____
 
 
 #### Discord team need to wake up and make sure users and their datas are safe.
-# Updates will be constant | dm for update ideas: ††#7777
+# Updates will be constant | dm for update ideas: @††#7777
 
 
 
