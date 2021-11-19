@@ -7,7 +7,7 @@ ____
 
 
 #### Discord team need to wake up and make sure users and their datas are safe.
-# I'm not responsible any of situation causes this program.
+# Updates will be constant | dm me for more ideas: ††#7777
 
 
 
